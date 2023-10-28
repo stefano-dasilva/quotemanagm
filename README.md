@@ -22,6 +22,9 @@ L'impiegato può selezionare un preventivo non ancora associato a nessun impiega
 ## Interfaccia Utente Responsiva
 L'applicazione offre un'interfaccia utente reattiva, consentendo agli utenti di navigare senza ricaricare completamente la pagina.
 
+## Note Aggiuntive
+ Il file [Presentazione.pptx](Presentazione.pptx) contiene lo studio della specifica con il grafico entità relazione e il modello del progetto.
+
 ## Logout
 L'applicazione consente il logout degli utenti.
 
